@@ -21,7 +21,7 @@ This script provides automated mouse and keyboard actions to simulate fishing in
 1. Clone the repository:
 
 ```batch
-git clone https://github.com/Luois45/roblox-fishing-simulator-bot.git
+git clone https://github.com/Evanmsawyer/roblox-fishing-simulator-bot.git
 ```
 
 2. Navigate to the project directory:
